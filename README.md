@@ -13,10 +13,10 @@ This project is a user-friendly code editor tailored for writing and editing HTM
 # Getting Started
 Follow these steps to set up and start using the HTML/CSS/JS Code Editor Project:
 1. Clone the Repository: Clone this repository to your local machine using the following command:
-git clone https://github.com/your-username/html-css-js-editor.git
+   https://github.com/Rupanjalisahu7/Code-Editor-project.git
 
 2. Navigate to Project Directory: Move into the project directory:
-cd html-css-js-editor
+  cd html-css-js-editor
 
 3. Install Dependencies: Install project dependencies using npm:
    npm install
